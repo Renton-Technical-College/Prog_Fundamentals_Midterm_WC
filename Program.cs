@@ -2,6 +2,11 @@
 {
     internal class Program
     {
+        // William Cram
+        // Midterm
+        // 2.27.2024
+
+
         static void Main(string[] args)
         {
 
